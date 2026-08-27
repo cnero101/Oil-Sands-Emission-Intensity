@@ -5,7 +5,7 @@ emissions intensity in Alberta's oil sands sector, using operational and
 technological features from Canada's National Pollutant Release Inventory
 (NPRI) and Alberta Energy Regulator (AER) data.
 
-**DATA 606 Project** · Paul Moynihan, Ifeanyi Njoku, Anmol Sharma
+**DATA 606 Project** by: Paul Moynihan, Ifeanyi Njoku, Anmol Sharma
 
 ---
 
