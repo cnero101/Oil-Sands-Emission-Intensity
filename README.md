@@ -153,8 +153,8 @@ Full table: [`results/tables/model_performance_results.csv`](results/tables/mode
 
 ## Reports & Presentation
 
-- [`reports/DATA_606_Project_Report.docx`](reports/DATA_606_Project_Report.docx) — full written report (introduction, data, methodology, EDA, model results, conclusion)
-- [`reports/Project_Presentation.pptx`](reports/Project_Presentation.pptx) — 17-slide deck covering the same material, including a dedicated slide on the leakage correction described in `docs/METHODOLOGY.md`
+- [`reports/Project_Report.pdf`](reports/Project_Report.pdf) — full written report (introduction, data, methodology, EDA, model results, conclusion)
+- [`reports/Project_Presentation.pdf`](reports/Project_Presentation.pdf) — 17-slide deck covering the same material, including a dedicated slide on the leakage correction described in `docs/METHODOLOGY.md`
 
 Both documents report the same reconciled numbers as this README and `results/tables/model_performance_results.csv` (Random Forest, Test R² = 0.4955).
 
