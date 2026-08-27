@@ -199,4 +199,5 @@ This project is licensed under the MIT License — see [LICENSE](LICENSE).
 ## Authors
 
 Paul Moynihan · Ifeanyi Njoku · Anmol Sharma
+
 DATA 606 Project | Master of Data Science and Analytics | University of Calgary
