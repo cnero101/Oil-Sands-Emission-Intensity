@@ -1,0 +1,417 @@
+GHGRP 1,Company,Facility,Subsector,Extraction Technology,Product,AER Approval 1,Year,Cogen_Adjusted_Emission,Production,Emission_Intensity
+G10604,Connacher Oil and Gas Limited,Great Divide,In Situ,SAGD,Crude Bitumen,10587,2011,476090.0,775990,0.614
+G12193,IPC Canada. Ltd,Blackrod SAGD Pilot 02-36-076-18W4,In Situ,SAGD,Crude Bitumen,11522,2011,0.0,0,0.0
+G10804,Athabasca Oil Corporation,AOC Hangingstone SAGD,In Situ,SAGD,Crude Bitumen,11888,2011,0.0,0,0.0
+G11982,Harvest Operations Corp.,BlackGold SAGD,In Situ,SAGD,Crude Bitumen,11387,2011,0.0,0,0.0
+G10065,Cenovus Energy Inc,Christina Lake SAGD Bitumen Battery,In Situ,SAGD,Crude Bitumen,8591,2011,455570.0,1301979,0.35
+G10219,Canadian Natural Upgrading Ltd,CNUL Peace River Complex,In Situ,CSS,Crude Bitumen,8143,2011,312189.0,276749,1.128
+G10073,Imperial Oil Resources Limited,Cold Lake,In Situ,CSS,Crude Bitumen,8558,2011,4200745.0,9270347,0.453
+G10557,Suncor Energy Oil Sands Limited Partnership ,Firebag,In Situ,SAGD,Crude Bitumen,8870,2011,1677723.0,3454235,0.486
+G10465,Cenovus Energy Inc,Foster Creek SAGD Bitumen Battery (with Cogen),In Situ,SAGD,Crude Bitumen,8623,2011,1828331.0,6364992,0.287
+G10781,Canadian Natural Resources Limited,Germain SAGD Plant,In Situ,SAGD,Crude Bitumen,11509,2011,0.0,0,0.0
+G11409,Greenfire Resources Operating Corporation,Hangingstone Expansion Project,In Situ,SAGD,Crude Bitumen,11910,2011,0.0,0,0.0
+G10134,Greenfire Resources Operating Corporation,Hangingstone SAGD Demonstration Facility,In Situ,SAGD,Crude Bitumen,8788,2011,255906.0,382394,0.669
+G10409,Canadian Natural Resources Limited,"Jackfish 1, 2, & 3",In Situ,SAGD,Crude Bitumen,10097,2011,873224.0,2004668,0.436
+G10744,Canadian Natural Resources Limited,Kirby,In Situ,SAGD,Crude Bitumen,11475,2011,0.0,0,0.0
+G10639,Athabasca Oil Corporation,Leismer SAGD Bitumen Battery,In Situ,SAGD,Crude Bitumen,10935,2011,260858.0,585341,0.446
+G10817,Pengrowth Energy Corporation,LINDBERGH SAGD 04-25,In Situ,SAGD,Crude Bitumen,6410,2011,0.0,0,0.0
+G10390,CNOOC Petroleum North America ULC,Long Lake Project,In Situ,SAGD,Synthetic Crude Oil,ABOS0098317 ,2011,2392960.0,1772951,1.35
+G10735,PetroChina Canada Ltd.,MacKay River Commercial Project,In Situ,SAGD,Crude Bitumen,11715,2011,0.0,0,0.0
+G10180,Suncor Energy Oil Sands Limited Partnership,"MacKay River, In-Situ Oil Sands Plant",In Situ,SAGD,Crude Bitumen,8668,2011,631610.0,1743044,0.362
+G10619,MEG Energy Corp.,MEG Christina Lake Regional Project,In Situ,SAGD,Crude Bitumen,10773,2011,578065.0,1532025,0.377
+G10412,Strathcona Resources Ltd,Orion Facilities,In Situ,SAGD,Crude Bitumen,10103,2011,160690.0,233848,0.687
+G10723,Greenfire Resources Operating Corporation,STP McKay Thermal Project,In Situ,SAGD,Crude Bitumen,11461,2011,0.0,0,0.0
+G10815,Cenovus Energy Inc,Sunrise Thermal,In Situ,SAGD,Crude Bitumen,10419,2011,0.0,0,0.0
+G10414,ConocoPhillips Surmont Partnership,Surmont SAGD Commercial Battery,In Situ,SAGD,Crude Bitumen,9426,2011,468997.0,1302577,0.36
+G10394,Strathcona Resources Ltd,Tucker Thermal,In Situ,SAGD,Crude Bitumen,9835,2011,417678.0,425565,0.981
+G10324,Canadian Natural Resources Limited,Wolf Lake and Primrose Plant,In Situ,CSS,Crude Bitumen,9140,2011,2821481.0,5588336,0.505
+G10262,Canadian Natural Upgrading Ltd,Canadian Natural Upgrading Limited Muskeg River Mine and Jackpine Mine and Scotford Upgrader,Mining & Upgrading,PFT,Synthetic Crude Oil,ABOS0077192 ,2011,5490217.0,11599206,0.473
+G11397,Fort Hills Energy L.P.,Fort Hills Oil Sands,Mining Stand-Alone,PFT,Crude Bitumen,ABOS0104948 ,2011,0.0,0,0.0
+G10408,Canadian Natural Resources Limited,Horizon Oil Sands Processing Plant and Mine,Mining & Upgrading,NFT,Synthetic Crude Oil,ABOS0093231 ,2011,1690792.0,2350088,0.719
+G10750,Imperial Oil Resources Limited,Kearl Oil Sands Processing Plant and Mine,Mining Stand-Alone,PFT,Crude Bitumen,ABOS0101871 ,2011,0.0,0,0.0
+G10187,Syncrude Canada Ltd.,Mildred Lake and Aurora Plant Sites,Mining & Upgrading,NFT,Synthetic Crude Oil,ABOS0077533 ,2011,12418994.0,16934052,0.733
+G10558,Suncor Energy Oil Sands Limited Partnership ,Suncor Energy Inc. Oil Sands,Mining & Upgrading,NFT,Synthetic Crude Oil,ABOS0077189 ,2011,7901456.0,16711569,0.473
+G10604,Connacher Oil and Gas Limited,Great Divide,In Situ,SAGD,Crude Bitumen,10587,2012,475223.0,434934,1.093
+G12193,IPC Canada. Ltd,Blackrod SAGD Pilot 02-36-076-18W4,In Situ,SAGD,Crude Bitumen,11522,2012,0.0,0,0.0
+G10804,Athabasca Oil Corporation,AOC Hangingstone SAGD,In Situ,SAGD,Crude Bitumen,11888,2012,0.0,0,0.0
+G11982,Harvest Operations Corp.,BlackGold SAGD,In Situ,SAGD,Crude Bitumen,11387,2012,0.0,0,0.0
+G10065,Cenovus Energy Inc,Christina Lake SAGD Bitumen Battery,In Situ,SAGD,Crude Bitumen,8591,2012,981864.0,3648504,0.269
+G10219,Canadian Natural Upgrading Ltd,CNUL Peace River Complex,In Situ,CSS,Crude Bitumen,8143,2012,269246.0,413276,0.651
+G10073,Imperial Oil Resources Limited,Cold Lake,In Situ,CSS,Crude Bitumen,8558,2012,3989482.0,8935861,0.446
+G10557,Suncor Energy Oil Sands Limited Partnership ,Firebag,In Situ,SAGD,Crude Bitumen,8870,2012,3132852.0,6040491,0.519
+G10465,Cenovus Energy Inc,Foster Creek SAGD Bitumen Battery (with Cogen),In Situ,SAGD,Crude Bitumen,8623,2012,1947057.0,6719975,0.29
+G10781,Canadian Natural Resources Limited,Germain SAGD Plant,In Situ,SAGD,Crude Bitumen,11509,2012,0.0,0,0.0
+G11409,Greenfire Resources Operating Corporation,Hangingstone Expansion Project,In Situ,SAGD,Crude Bitumen,11910,2012,0.0,0,0.0
+G10134,Greenfire Resources Operating Corporation,Hangingstone SAGD Demonstration Facility,In Situ,SAGD,Crude Bitumen,8788,2012,261498.0,348867,0.75
+G10409,Canadian Natural Resources Limited,"Jackfish 1, 2, & 3",In Situ,SAGD,Crude Bitumen,10097,2012,1145400.0,2883943,0.397
+G10744,Canadian Natural Resources Limited,Kirby,In Situ,SAGD,Crude Bitumen,11475,2012,0.0,0,0.0
+G10639,Athabasca Oil Corporation,Leismer SAGD Bitumen Battery,In Situ,SAGD,Crude Bitumen,10935,2012,332375.0,950397,0.35
+G10817,Pengrowth Energy Corporation,LINDBERGH SAGD 04-25,In Situ,SAGD,Crude Bitumen,6410,2012,0.0,52328,0.0
+G10390,CNOOC Petroleum North America ULC,Long Lake Project,In Situ,SAGD,Synthetic Crude Oil,ABOS0098317 ,2012,2712043.0,1733803,1.564
+G10735,PetroChina Canada Ltd.,MacKay River Commercial Project,In Situ,SAGD,Crude Bitumen,11715,2012,1464.0,0,0.0
+G10180,Suncor Energy Oil Sands Limited Partnership,"MacKay River, In-Situ Oil Sands Plant",In Situ,SAGD,Crude Bitumen,8668,2012,646512.0,1568468,0.412
+G10619,MEG Energy Corp.,MEG Christina Lake Regional Project,In Situ,SAGD,Crude Bitumen,10773,2012,616026.0,1674729,0.368
+G10412,Strathcona Resources Ltd,Orion Facilities,In Situ,SAGD,Crude Bitumen,10103,2012,150967.0,255528,0.591
+G10723,Greenfire Resources Operating Corporation,STP McKay Thermal Project,In Situ,SAGD,Crude Bitumen,11461,2012,69225.0,12429,5.57
+G10815,Cenovus Energy Inc,Sunrise Thermal,In Situ,SAGD,Crude Bitumen,10419,2012,0.0,0,0.0
+G10414,ConocoPhillips Surmont Partnership,Surmont SAGD Commercial Battery,In Situ,SAGD,Crude Bitumen,9426,2012,518199.0,1352845,0.383
+G10394,Strathcona Resources Ltd,Tucker Thermal,In Situ,SAGD,Crude Bitumen,9835,2012,584081.0,555608,1.051
+G10324,Canadian Natural Resources Limited,Wolf Lake and Primrose Plant,In Situ,CSS,Crude Bitumen,9140,2012,3334140.0,5704990,0.584
+G10262,Canadian Natural Upgrading Ltd,Canadian Natural Upgrading Limited Muskeg River Mine and Jackpine Mine and Scotford Upgrader,Mining & Upgrading,PFT,Synthetic Crude Oil,ABOS0077192 ,2012,5565531.0,12367370,0.45
+G11397,Fort Hills Energy L.P.,Fort Hills Oil Sands,Mining Stand-Alone,PFT,Crude Bitumen,ABOS0104948 ,2012,0.0,0,0.0
+G10408,Canadian Natural Resources Limited,Horizon Oil Sands Processing Plant and Mine,Mining & Upgrading,NFT,Synthetic Crude Oil,ABOS0093231 ,2012,3587434.0,5046029,0.711
+G10750,Imperial Oil Resources Limited,Kearl Oil Sands Processing Plant and Mine,Mining Stand-Alone,PFT,Crude Bitumen,ABOS0101871 ,2012,0.0,0,0.0
+G10187,Syncrude Canada Ltd.,Mildred Lake and Aurora Plant Sites,Mining & Upgrading,NFT,Synthetic Crude Oil,ABOS0077533 ,2012,11858774.0,16901166,0.702
+G10558,Suncor Energy Oil Sands Limited Partnership ,Suncor Energy Inc. Oil Sands,Mining & Upgrading,NFT,Synthetic Crude Oil,ABOS0077189 ,2012,8756619.0,16414649,0.533
+G10604,Connacher Oil and Gas Limited,Great Divide,In Situ,SAGD,Crude Bitumen,10587,2013,462232.0,683744,0.676
+G12193,IPC Canada. Ltd,Blackrod SAGD Pilot 02-36-076-18W4,In Situ,SAGD,Crude Bitumen,11522,2013,0.0,0,0.0
+G10804,Athabasca Oil Corporation,AOC Hangingstone SAGD,In Situ,SAGD,Crude Bitumen,11888,2013,0.0,0,0.0
+G11982,Harvest Operations Corp.,BlackGold SAGD,In Situ,SAGD,Crude Bitumen,11387,2013,0.0,0,0.0
+G10065,Cenovus Energy Inc,Christina Lake SAGD Bitumen Battery,In Situ,SAGD,Crude Bitumen,8591,2013,1411923.0,5719937,0.247
+G10219,Canadian Natural Upgrading Ltd,CNUL Peace River Complex,In Situ,CSS,Crude Bitumen,8143,2013,270180.0,260407,1.038
+G10073,Imperial Oil Resources Limited,Cold Lake,In Situ,CSS,Crude Bitumen,8558,2013,4249415.0,8853949,0.48
+G10557,Suncor Energy Oil Sands Limited Partnership ,Firebag,In Situ,SAGD,Crude Bitumen,8870,2013,3388789.0,8337721,0.406
+G10465,Cenovus Energy Inc,Foster Creek SAGD Bitumen Battery (with Cogen),In Situ,SAGD,Crude Bitumen,8623,2013,1993157.0,6169976,0.323
+G10781,Canadian Natural Resources Limited,Germain SAGD Plant,In Situ,SAGD,Crude Bitumen,11509,2013,0.0,351,0.0
+G11409,Greenfire Resources Operating Corporation,Hangingstone Expansion Project,In Situ,SAGD,Crude Bitumen,11910,2013,0.0,0,0.0
+G10134,Greenfire Resources Operating Corporation,Hangingstone SAGD Demonstration Facility,In Situ,SAGD,Crude Bitumen,8788,2013,230570.0,344757,0.669
+G10409,Canadian Natural Resources Limited,"Jackfish 1, 2, & 3",In Situ,SAGD,Crude Bitumen,10097,2013,1225101.0,3308380,0.37
+G10744,Canadian Natural Resources Limited,Kirby,In Situ,SAGD,Crude Bitumen,11475,2013,106319.0,23269,4.569
+G10639,Athabasca Oil Corporation,Leismer SAGD Bitumen Battery,In Situ,SAGD,Crude Bitumen,10935,2013,378739.0,645869,0.586
+G10817,Pengrowth Energy Corporation,LINDBERGH SAGD 04-25,In Situ,SAGD,Crude Bitumen,6410,2013,0.0,107023,0.0
+G10390,CNOOC Petroleum North America ULC,Long Lake Project,In Situ,SAGD,Synthetic Crude Oil,ABOS0098317 ,2013,3244831.0,2028914,1.599
+G10735,PetroChina Canada Ltd.,MacKay River Commercial Project,In Situ,SAGD,Crude Bitumen,11715,2013,4875.0,0,0.0
+G10180,Suncor Energy Oil Sands Limited Partnership,"MacKay River, In-Situ Oil Sands Plant",In Situ,SAGD,Crude Bitumen,8668,2013,712278.0,1654847,0.43
+G10619,MEG Energy Corp.,MEG Christina Lake Regional Project,In Situ,SAGD,Crude Bitumen,10773,2013,837650.0,2049437,0.409
+G10412,Strathcona Resources Ltd,Orion Facilities,In Situ,SAGD,Crude Bitumen,10103,2013,186177.0,317789,0.586
+G10723,Greenfire Resources Operating Corporation,STP McKay Thermal Project,In Situ,SAGD,Crude Bitumen,11461,2013,62979.0,87068,0.723
+G10815,Cenovus Energy Inc,Sunrise Thermal,In Situ,SAGD,Crude Bitumen,10419,2013,0.0,0,0.0
+G10414,ConocoPhillips Surmont Partnership,Surmont SAGD Commercial Battery,In Situ,SAGD,Crude Bitumen,9426,2013,546385.0,1503998,0.363
+G10394,Strathcona Resources Ltd,Tucker Thermal,In Situ,SAGD,Crude Bitumen,9835,2013,530990.0,598470,0.887
+G10324,Canadian Natural Resources Limited,Wolf Lake and Primrose Plant,In Situ,CSS,Crude Bitumen,9140,2013,2805361.0,5498534,0.51
+G10262,Canadian Natural Upgrading Ltd,Canadian Natural Upgrading Limited Muskeg River Mine and Jackpine Mine and Scotford Upgrader,Mining & Upgrading,PFT,Synthetic Crude Oil,ABOS0077192 ,2013,6077927.0,13765963,0.442
+G11397,Fort Hills Energy L.P.,Fort Hills Oil Sands,Mining Stand-Alone,PFT,Crude Bitumen,ABOS0104948 ,2013,0.0,0,0.0
+G10408,Canadian Natural Resources Limited,Horizon Oil Sands Processing Plant and Mine,Mining & Upgrading,NFT,Synthetic Crude Oil,ABOS0093231 ,2013,4072658.0,5843263,0.697
+G10750,Imperial Oil Resources Limited,Kearl Oil Sands Processing Plant and Mine,Mining Stand-Alone,PFT,Crude Bitumen,ABOS0101871 ,2013,717708.0,1451163,0.495
+G10187,Syncrude Canada Ltd.,Mildred Lake and Aurora Plant Sites,Mining & Upgrading,NFT,Synthetic Crude Oil,ABOS0077533 ,2013,11833994.0,15924758,0.743
+G10558,Suncor Energy Oil Sands Limited Partnership ,Suncor Energy Inc. Oil Sands,Mining & Upgrading,NFT,Synthetic Crude Oil,ABOS0077189 ,2013,7873243.0,16744254,0.47
+G10604,Connacher Oil and Gas Limited,Great Divide,In Situ,SAGD,Crude Bitumen,10587,2014,473432.0,820326,0.577
+G12193,IPC Canada. Ltd,Blackrod SAGD Pilot 02-36-076-18W4,In Situ,SAGD,Crude Bitumen,11522,2014,0.0,0,0.0
+G10804,Athabasca Oil Corporation,AOC Hangingstone SAGD,In Situ,SAGD,Crude Bitumen,11888,2014,0.0,0,0.0
+G11982,Harvest Operations Corp.,BlackGold SAGD,In Situ,SAGD,Crude Bitumen,11387,2014,0.0,34,0.0
+G10065,Cenovus Energy Inc,Christina Lake SAGD Bitumen Battery,In Situ,SAGD,Crude Bitumen,8591,2014,1831146.0,8014347,0.228
+G10219,Canadian Natural Upgrading Ltd,CNUL Peace River Complex,In Situ,CSS,Crude Bitumen,8143,2014,278612.0,248545,1.121
+G10073,Imperial Oil Resources Limited,Cold Lake,In Situ,CSS,Crude Bitumen,8558,2014,4017628.0,8468353,0.474
+G10557,Suncor Energy Oil Sands Limited Partnership ,Firebag,In Situ,SAGD,Crude Bitumen,8870,2014,3690647.0,10027908,0.368
+G10465,Cenovus Energy Inc,Foster Creek SAGD Bitumen Battery (with Cogen),In Situ,SAGD,Crude Bitumen,8623,2014,2308514.0,6866255,0.336
+G10781,Canadian Natural Resources Limited,Germain SAGD Plant,In Situ,SAGD,Crude Bitumen,11509,2014,79844.0,30904,2.584
+G11409,Greenfire Resources Operating Corporation,Hangingstone Expansion Project,In Situ,SAGD,Crude Bitumen,11910,2014,0.0,0,0.0
+G10134,Greenfire Resources Operating Corporation,Hangingstone SAGD Demonstration Facility,In Situ,SAGD,Crude Bitumen,8788,2014,224765.0,332757,0.675
+G10409,Canadian Natural Resources Limited,"Jackfish 1, 2, & 3",In Situ,SAGD,Crude Bitumen,10097,2014,1442502.0,3818842,0.378
+G10744,Canadian Natural Resources Limited,Kirby,In Situ,SAGD,Crude Bitumen,11475,2014,414773.0,882381,0.47
+G10639,Athabasca Oil Corporation,Leismer SAGD Bitumen Battery,In Situ,SAGD,Crude Bitumen,10935,2014,400514.0,769703,0.52
+G10817,Pengrowth Energy Corporation,LINDBERGH SAGD 04-25,In Situ,SAGD,Crude Bitumen,6410,2014,0.0,97748,0.0
+G10390,CNOOC Petroleum North America ULC,Long Lake Project,In Situ,SAGD,Synthetic Crude Oil,ABOS0098317 ,2014,3283947.0,2221707,1.478
+G10735,PetroChina Canada Ltd.,MacKay River Commercial Project,In Situ,SAGD,Crude Bitumen,11715,2014,17442.0,0,0.0
+G10180,Suncor Energy Oil Sands Limited Partnership,"MacKay River, In-Situ Oil Sands Plant",In Situ,SAGD,Crude Bitumen,8668,2014,708186.0,1550681,0.457
+G10619,MEG Energy Corp.,MEG Christina Lake Regional Project,In Situ,SAGD,Crude Bitumen,10773,2014,1624076.0,4130666,0.393
+G10412,Strathcona Resources Ltd,Orion Facilities,In Situ,SAGD,Crude Bitumen,10103,2014,190065.0,423736,0.449
+G10723,Greenfire Resources Operating Corporation,STP McKay Thermal Project,In Situ,SAGD,Crude Bitumen,11461,2014,111899.0,116627,0.959
+G10815,Cenovus Energy Inc,Sunrise Thermal,In Situ,SAGD,Crude Bitumen,10419,2014,0.0,0,0.0
+G10414,ConocoPhillips Surmont Partnership,Surmont SAGD Commercial Battery,In Situ,SAGD,Crude Bitumen,9426,2014,503979.0,1470193,0.343
+G10394,Strathcona Resources Ltd,Tucker Thermal,In Situ,SAGD,Crude Bitumen,9835,2014,610717.0,628408,0.972
+G10324,Canadian Natural Resources Limited,Wolf Lake and Primrose Plant,In Situ,CSS,Crude Bitumen,9140,2014,2566752.0,5313264,0.483
+G10262,Canadian Natural Upgrading Ltd,Canadian Natural Upgrading Limited Muskeg River Mine and Jackpine Mine and Scotford Upgrader,Mining & Upgrading,PFT,Synthetic Crude Oil,ABOS0077192 ,2014,6228170.0,14324436,0.435
+G11397,Fort Hills Energy L.P.,Fort Hills Oil Sands,Mining Stand-Alone,PFT,Crude Bitumen,ABOS0104948 ,2014,0.0,0,0.0
+G10408,Canadian Natural Resources Limited,Horizon Oil Sands Processing Plant and Mine,Mining & Upgrading,NFT,Synthetic Crude Oil,ABOS0093231 ,2014,3430174.0,6473388,0.53
+G10750,Imperial Oil Resources Limited,Kearl Oil Sands Processing Plant and Mine,Mining Stand-Alone,PFT,Crude Bitumen,ABOS0101871 ,2014,1249957.0,4618945,0.271
+G10187,Syncrude Canada Ltd.,Mildred Lake and Aurora Plant Sites,Mining & Upgrading,NFT,Synthetic Crude Oil,ABOS0077533 ,2014,11323070.0,15164026,0.747
+G10558,Suncor Energy Oil Sands Limited Partnership ,Suncor Energy Inc. Oil Sands,Mining & Upgrading,NFT,Synthetic Crude Oil,ABOS0077189 ,2014,7934818.0,17179104,0.462
+G10604,Connacher Oil and Gas Limited,Great Divide,In Situ,SAGD,Crude Bitumen,10587,2015,470218.0,843780,0.557
+G12193,IPC Canada. Ltd,Blackrod SAGD Pilot 02-36-076-18W4,In Situ,SAGD,Crude Bitumen,11522,2015,0.0,0,0.0
+G10804,Athabasca Oil Corporation,AOC Hangingstone SAGD,In Situ,SAGD,Crude Bitumen,11888,2015,174345.0,114512,1.523
+G11982,Harvest Operations Corp.,BlackGold SAGD,In Situ,SAGD,Crude Bitumen,11387,2015,0.0,0,0.0
+G10065,Cenovus Energy Inc,Christina Lake SAGD Bitumen Battery,In Situ,SAGD,Crude Bitumen,8591,2015,2003802.0,8690348,0.231
+G10219,Canadian Natural Upgrading Ltd,CNUL Peace River Complex,In Situ,CSS,Crude Bitumen,8143,2015,275360.0,279690,0.985
+G10073,Imperial Oil Resources Limited,Cold Lake,In Situ,CSS,Crude Bitumen,8558,2015,4830627.0,9180148,0.526
+G10557,Suncor Energy Oil Sands Limited Partnership ,Firebag,In Situ,SAGD,Crude Bitumen,8870,2015,3720545.0,10837183,0.343
+G10465,Cenovus Energy Inc,Foster Creek SAGD Bitumen Battery (with Cogen),In Situ,SAGD,Crude Bitumen,8623,2015,2441261.0,7581299,0.322
+G10781,Canadian Natural Resources Limited,Germain SAGD Plant,In Situ,SAGD,Crude Bitumen,11509,2015,0.0,5758,0.0
+G11409,Greenfire Resources Operating Corporation,Hangingstone Expansion Project,In Situ,SAGD,Crude Bitumen,11910,2015,0.0,0,0.0
+G10134,Greenfire Resources Operating Corporation,Hangingstone SAGD Demonstration Facility,In Situ,SAGD,Crude Bitumen,8788,2015,203293.0,306372,0.664
+G10409,Canadian Natural Resources Limited,"Jackfish 1, 2, & 3",In Situ,SAGD,Crude Bitumen,10097,2015,1809260.0,5026672,0.36
+G10744,Canadian Natural Resources Limited,Kirby,In Situ,SAGD,Crude Bitumen,11475,2015,576547.0,1707843,0.338
+G10639,Athabasca Oil Corporation,Leismer SAGD Bitumen Battery,In Situ,SAGD,Crude Bitumen,10935,2015,481965.0,1156223,0.417
+G10817,Pengrowth Energy Corporation,LINDBERGH SAGD 04-25,In Situ,SAGD,Crude Bitumen,6410,2015,237926.0,662454,0.359
+G10390,CNOOC Petroleum North America ULC,Long Lake Project,In Situ,SAGD,Synthetic Crude Oil,ABOS0098317 ,2015,2706791.0,1756051,1.541
+G10735,PetroChina Canada Ltd.,MacKay River Commercial Project,In Situ,SAGD,Crude Bitumen,11715,2015,16177.0,0,0.0
+G10180,Suncor Energy Oil Sands Limited Partnership,"MacKay River, In-Situ Oil Sands Plant",In Situ,SAGD,Crude Bitumen,8668,2015,821183.0,1781309,0.461
+G10619,MEG Energy Corp.,MEG Christina Lake Regional Project,In Situ,SAGD,Crude Bitumen,10773,2015,1770419.0,4644370,0.381
+G10412,Strathcona Resources Ltd,Orion Facilities,In Situ,SAGD,Crude Bitumen,10103,2015,198364.0,448896,0.442
+G10723,Greenfire Resources Operating Corporation,STP McKay Thermal Project,In Situ,SAGD,Crude Bitumen,11461,2015,60428.0,44962,1.344
+G10815,Cenovus Energy Inc,Sunrise Thermal,In Situ,SAGD,Crude Bitumen,10419,2015,612686.0,365125,1.678
+G10414,ConocoPhillips Surmont Partnership,Surmont SAGD Commercial Battery,In Situ,SAGD,Crude Bitumen,9426,2015,902639.0,1619970,0.557
+G10394,Strathcona Resources Ltd,Tucker Thermal,In Situ,SAGD,Crude Bitumen,9835,2015,560662.0,664795,0.843
+G10324,Canadian Natural Resources Limited,Wolf Lake and Primrose Plant,In Situ,CSS,Crude Bitumen,9140,2015,2986716.0,5769076,0.518
+G10262,Canadian Natural Upgrading Ltd,Canadian Natural Upgrading Limited Muskeg River Mine and Jackpine Mine and Scotford Upgrader,Mining & Upgrading,PFT,Synthetic Crude Oil,ABOS0077192 ,2015,5150389.0,13951928,0.369
+G11397,Fort Hills Energy L.P.,Fort Hills Oil Sands,Mining Stand-Alone,PFT,Crude Bitumen,ABOS0104948 ,2015,0.0,0,0.0
+G10408,Canadian Natural Resources Limited,Horizon Oil Sands Processing Plant and Mine,Mining & Upgrading,NFT,Synthetic Crude Oil,ABOS0093231 ,2015,3709328.0,7285146,0.509
+G10750,Imperial Oil Resources Limited,Kearl Oil Sands Processing Plant and Mine,Mining Stand-Alone,PFT,Crude Bitumen,ABOS0101871 ,2015,2275372.0,9732736,0.234
+G10187,Syncrude Canada Ltd.,Mildred Lake and Aurora Plant Sites,Mining & Upgrading,NFT,Synthetic Crude Oil,ABOS0077533 ,2015,10842756.0,14666091,0.739
+G10558,Suncor Energy Oil Sands Limited Partnership ,Suncor Energy Inc. Oil Sands,Mining & Upgrading,NFT,Synthetic Crude Oil,ABOS0077189 ,2015,8065378.0,18974542,0.425
+G10604,Connacher Oil and Gas Limited,Great Divide,In Situ,SAGD,Crude Bitumen,10587,2016,375188.0,499986,0.75
+G12193,IPC Canada. Ltd,Blackrod SAGD Pilot 02-36-076-18W4,In Situ,SAGD,Crude Bitumen,11522,2016,0.0,0,0.0
+G10804,Athabasca Oil Corporation,AOC Hangingstone SAGD,In Situ,SAGD,Crude Bitumen,11888,2016,308309.0,429621,0.718
+G11982,Harvest Operations Corp.,BlackGold SAGD,In Situ,SAGD,Crude Bitumen,11387,2016,0.0,0,0.0
+G10065,Cenovus Energy Inc,Christina Lake SAGD Bitumen Battery,In Situ,SAGD,Crude Bitumen,8591,2016,2328922.0,9240749,0.252
+G10219,Canadian Natural Upgrading Ltd,CNUL Peace River Complex,In Situ,CSS,Crude Bitumen,8143,2016,267969.0,306914,0.873
+G10073,Imperial Oil Resources Limited,Cold Lake,In Situ,CSS,Crude Bitumen,8558,2016,4648905.0,9353491,0.497
+G10557,Suncor Energy Oil Sands Limited Partnership ,Firebag,In Situ,SAGD,Crude Bitumen,8870,2016,3676670.0,10500700,0.35
+G10465,Cenovus Energy Inc,Foster Creek SAGD Bitumen Battery (with Cogen),In Situ,SAGD,Crude Bitumen,8623,2016,2867787.0,8166562,0.351
+G10781,Canadian Natural Resources Limited,Germain SAGD Plant,In Situ,SAGD,Crude Bitumen,11509,2016,0.0,0,0.0
+G11409,Greenfire Resources Operating Corporation,Hangingstone Expansion Project,In Situ,SAGD,Crude Bitumen,11910,2016,0.0,0,0.0
+G10134,Greenfire Resources Operating Corporation,Hangingstone SAGD Demonstration Facility,In Situ,SAGD,Crude Bitumen,8788,2016,65641.0,90752,0.723
+G10409,Canadian Natural Resources Limited,"Jackfish 1, 2, & 3",In Situ,SAGD,Crude Bitumen,10097,2016,2061082.0,6377582,0.323
+G10744,Canadian Natural Resources Limited,Kirby,In Situ,SAGD,Crude Bitumen,11475,2016,700320.0,2193371,0.319
+G10639,Athabasca Oil Corporation,Leismer SAGD Bitumen Battery,In Situ,SAGD,Crude Bitumen,10935,2016,474786.0,1188198,0.4
+G10817,Pengrowth Energy Corporation,LINDBERGH SAGD 04-25,In Situ,SAGD,Crude Bitumen,6410,2016,249073.0,891263,0.279
+G10390,CNOOC Petroleum North America ULC,Long Lake Project,In Situ,SAGD,Synthetic Crude Oil,ABOS0098317 ,2016,1171641.0,1265750,0.926
+G10735,PetroChina Canada Ltd.,MacKay River Commercial Project,In Situ,SAGD,Crude Bitumen,11715,2016,16022.0,0,0.0
+G10180,Suncor Energy Oil Sands Limited Partnership,"MacKay River, In-Situ Oil Sands Plant",In Situ,SAGD,Crude Bitumen,8668,2016,798337.0,1608217,0.496
+G10619,MEG Energy Corp.,MEG Christina Lake Regional Project,In Situ,SAGD,Crude Bitumen,10773,2016,1675291.0,4649055,0.36
+G10412,Strathcona Resources Ltd,Orion Facilities,In Situ,SAGD,Crude Bitumen,10103,2016,229017.0,422223,0.542
+G10723,Greenfire Resources Operating Corporation,STP McKay Thermal Project,In Situ,SAGD,Crude Bitumen,11461,2016,0.0,0,0.0
+G10815,Cenovus Energy Inc,Sunrise Thermal,In Situ,SAGD,Crude Bitumen,10419,2016,1214080.0,1501595,0.809
+G10414,ConocoPhillips Surmont Partnership,Surmont SAGD Commercial Battery,In Situ,SAGD,Crude Bitumen,9426,2016,2035437.0,4085718,0.498
+G10394,Strathcona Resources Ltd,Tucker Thermal,In Situ,SAGD,Crude Bitumen,9835,2016,660886.0,1111158,0.595
+G10324,Canadian Natural Resources Limited,Wolf Lake and Primrose Plant,In Situ,CSS,Crude Bitumen,9140,2016,3136185.0,4114194,0.762
+G10262,Canadian Natural Upgrading Ltd,Canadian Natural Upgrading Limited Muskeg River Mine and Jackpine Mine and Scotford Upgrader,Mining & Upgrading,PFT,Synthetic Crude Oil,ABOS0077192 ,2016,4612376.0,15113884,0.305
+G11397,Fort Hills Energy L.P.,Fort Hills Oil Sands,Mining Stand-Alone,PFT,Crude Bitumen,ABOS0104948 ,2016,0.0,0,0.0
+G10408,Canadian Natural Resources Limited,Horizon Oil Sands Processing Plant and Mine,Mining & Upgrading,NFT,Synthetic Crude Oil,ABOS0093231 ,2016,3716404.0,7330493,0.507
+G10750,Imperial Oil Resources Limited,Kearl Oil Sands Processing Plant and Mine,Mining Stand-Alone,PFT,Crude Bitumen,ABOS0101871 ,2016,2550641.0,10783943,0.237
+G10187,Syncrude Canada Ltd.,Mildred Lake and Aurora Plant Sites,Mining & Upgrading,NFT,Synthetic Crude Oil,ABOS0077533 ,2016,10490724.0,16148748,0.65
+G10558,Suncor Energy Oil Sands Limited Partnership ,Suncor Energy Inc. Oil Sands,Mining & Upgrading,NFT,Synthetic Crude Oil,ABOS0077189 ,2016,6610597.0,15410186,0.429
+G10604,Connacher Oil and Gas Limited,Great Divide,In Situ,SAGD,Crude Bitumen,10587,2017,490201.0,728849,0.673
+G12193,IPC Canada. Ltd,Blackrod SAGD Pilot 02-36-076-18W4,In Situ,SAGD,Crude Bitumen,11522,2017,0.0,0,0.0
+G10804,Athabasca Oil Corporation,AOC Hangingstone SAGD,In Situ,SAGD,Crude Bitumen,11888,2017,342202.0,518735,0.66
+G11982,Harvest Operations Corp.,BlackGold SAGD,In Situ,SAGD,Crude Bitumen,11387,2017,0.0,0,0.0
+G10065,Cenovus Energy Inc,Christina Lake SAGD Bitumen Battery,In Situ,SAGD,Crude Bitumen,8591,2017,2954322.0,11926759,0.248
+G10219,Canadian Natural Upgrading Ltd,CNUL Peace River Complex,In Situ,CSS,Crude Bitumen,8143,2017,326049.0,271559,1.201
+G10073,Imperial Oil Resources Limited,Cold Lake,In Situ,CSS,Crude Bitumen,8558,2017,4778529.0,9436475,0.506
+G10557,Suncor Energy Oil Sands Limited Partnership ,Firebag,In Situ,SAGD,Crude Bitumen,8870,2017,3723606.0,10568529,0.352
+G10465,Cenovus Energy Inc,Foster Creek SAGD Bitumen Battery (with Cogen),In Situ,SAGD,Crude Bitumen,8623,2017,2928880.0,8895301,0.329
+G10781,Canadian Natural Resources Limited,Germain SAGD Plant,In Situ,SAGD,Crude Bitumen,11509,2017,0.0,0,0.0
+G11409,Greenfire Resources Operating Corporation,Hangingstone Expansion Project,In Situ,SAGD,Crude Bitumen,11910,2017,184085.0,195214,0.943
+G10134,Greenfire Resources Operating Corporation,Hangingstone SAGD Demonstration Facility,In Situ,SAGD,Crude Bitumen,8788,2017,0.0,0,0.0
+G10409,Canadian Natural Resources Limited,"Jackfish 1, 2, & 3",In Situ,SAGD,Crude Bitumen,10097,2017,2282596.0,6763723,0.337
+G10744,Canadian Natural Resources Limited,Kirby,In Situ,SAGD,Crude Bitumen,11475,2017,706793.0,2094270,0.337
+G10639,Athabasca Oil Corporation,Leismer SAGD Bitumen Battery,In Situ,SAGD,Crude Bitumen,10935,2017,535093.0,1204933,0.444
+G10817,Pengrowth Energy Corporation,LINDBERGH SAGD 04-25,In Situ,SAGD,Crude Bitumen,6410,2017,267917.0,798344,0.336
+G10390,CNOOC Petroleum North America ULC,Long Lake Project,In Situ,SAGD,Synthetic Crude Oil,ABOS0098317 ,2017,1501112.0,2366270,0.634
+G10735,PetroChina Canada Ltd.,MacKay River Commercial Project,In Situ,SAGD,Crude Bitumen,11715,2017,413499.0,242057,1.708
+G10180,Suncor Energy Oil Sands Limited Partnership,"MacKay River, In-Situ Oil Sands Plant",In Situ,SAGD,Crude Bitumen,8668,2017,860352.0,1800158,0.478
+G10619,MEG Energy Corp.,MEG Christina Lake Regional Project,In Situ,SAGD,Crude Bitumen,10773,2017,1707173.0,4466111,0.382
+G10412,Strathcona Resources Ltd,Orion Facilities,In Situ,SAGD,Crude Bitumen,10103,2017,274863.0,470046,0.585
+G10723,Greenfire Resources Operating Corporation,STP McKay Thermal Project,In Situ,SAGD,Crude Bitumen,11461,2017,0.0,0,0.0
+G10815,Cenovus Energy Inc,Sunrise Thermal,In Situ,SAGD,Crude Bitumen,10419,2017,1580151.0,2330215,0.678
+G10414,ConocoPhillips Surmont Partnership,Surmont SAGD Commercial Battery,In Situ,SAGD,Crude Bitumen,9426,2017,3050754.0,6972243,0.438
+G10394,Strathcona Resources Ltd,Tucker Thermal,In Situ,SAGD,Crude Bitumen,9835,2017,739616.0,1271324,0.582
+G10324,Canadian Natural Resources Limited,Wolf Lake and Primrose Plant,In Situ,CSS,Crude Bitumen,9140,2017,3447865.0,4563519,0.756
+G10262,Canadian Natural Upgrading Ltd,Canadian Natural Upgrading Limited Muskeg River Mine and Jackpine Mine and Scotford Upgrader,Mining & Upgrading,PFT,Synthetic Crude Oil,ABOS0077192 ,2017,4858704.0,16066131,0.302
+G11397,Fort Hills Energy L.P.,Fort Hills Oil Sands,Mining Stand-Alone,PFT,Crude Bitumen,ABOS0104948 ,2017,421029.0,122070,3.449
+G10408,Canadian Natural Resources Limited,Horizon Oil Sands Processing Plant and Mine,Mining & Upgrading,NFT,Synthetic Crude Oil,ABOS0093231 ,2017,4612041.0,10000446,0.461
+G10750,Imperial Oil Resources Limited,Kearl Oil Sands Processing Plant and Mine,Mining Stand-Alone,PFT,Crude Bitumen,ABOS0101871 ,2017,2662557.0,11382738,0.234
+G10187,Syncrude Canada Ltd.,Mildred Lake and Aurora Plant Sites,Mining & Upgrading,NFT,Synthetic Crude Oil,ABOS0077533 ,2017,10824706.0,14662669,0.738
+G10558,Suncor Energy Oil Sands Limited Partnership ,Suncor Energy Inc. Oil Sands,Mining & Upgrading,NFT,Synthetic Crude Oil,ABOS0077189 ,2017,7954443.0,18933281,0.42
+G10604,Connacher Oil and Gas Limited,Great Divide,In Situ,SAGD,Crude Bitumen,10587,2018,445216.0,643975,0.691
+G12193,IPC Canada. Ltd,Blackrod SAGD Pilot 02-36-076-18W4,In Situ,SAGD,Crude Bitumen,11522,2018,0.0,0,0.0
+G10804,Athabasca Oil Corporation,AOC Hangingstone SAGD,In Situ,SAGD,Crude Bitumen,11888,2018,322077.0,522093,0.617
+G11982,Harvest Operations Corp.,BlackGold SAGD,In Situ,SAGD,Crude Bitumen,11387,2018,105182.0,72291,1.455
+G10065,Cenovus Energy Inc,Christina Lake SAGD Bitumen Battery,In Situ,SAGD,Crude Bitumen,8591,2018,3007251.0,11677119,0.258
+G10219,Canadian Natural Upgrading Ltd,CNUL Peace River Complex,In Situ,CSS,Crude Bitumen,8143,2018,309120.0,164324,1.881
+G10073,Imperial Oil Resources Limited,Cold Lake,In Situ,CSS,Crude Bitumen,8558,2018,4729333.0,8568235,0.552
+G10557,Suncor Energy Oil Sands Limited Partnership ,Firebag,In Situ,SAGD,Crude Bitumen,8870,2018,4297520.0,11840911,0.363
+G10465,Cenovus Energy Inc,Foster Creek SAGD Bitumen Battery (with Cogen),In Situ,SAGD,Crude Bitumen,8623,2018,3342282.0,9395596,0.356
+G10781,Canadian Natural Resources Limited,Germain SAGD Plant,In Situ,SAGD,Crude Bitumen,11509,2018,0.0,0,0.0
+G11409,Greenfire Resources Operating Corporation,Hangingstone Expansion Project,In Situ,SAGD,Crude Bitumen,11910,2018,446046.0,1087986,0.41
+G10134,Greenfire Resources Operating Corporation,Hangingstone SAGD Demonstration Facility,In Situ,SAGD,Crude Bitumen,8788,2018,16778.0,2257,7.433
+G10409,Canadian Natural Resources Limited,"Jackfish 1, 2, & 3",In Situ,SAGD,Crude Bitumen,10097,2018,2364070.0,5806860,0.407
+G10744,Canadian Natural Resources Limited,Kirby,In Situ,SAGD,Crude Bitumen,11475,2018,717308.0,2003422,0.358
+G10639,Athabasca Oil Corporation,Leismer SAGD Bitumen Battery,In Situ,SAGD,Crude Bitumen,10935,2018,495958.0,1098248,0.452
+G10817,Pengrowth Energy Corporation,LINDBERGH SAGD 04-25,In Situ,SAGD,Crude Bitumen,6410,2018,391908.0,949357,0.413
+G10390,CNOOC Petroleum North America ULC,Long Lake Project,In Situ,SAGD,Synthetic Crude Oil,ABOS0098317 ,2018,1397665.0,2577113,0.542
+G10735,PetroChina Canada Ltd.,MacKay River Commercial Project,In Situ,SAGD,Crude Bitumen,11715,2018,518483.0,424599,1.221
+G10180,Suncor Energy Oil Sands Limited Partnership,"MacKay River, In-Situ Oil Sands Plant",In Situ,SAGD,Crude Bitumen,8668,2018,980419.0,2085297,0.47
+G10619,MEG Energy Corp.,MEG Christina Lake Regional Project,In Situ,SAGD,Crude Bitumen,10773,2018,1745665.0,4503294,0.388
+G10412,Strathcona Resources Ltd,Orion Facilities,In Situ,SAGD,Crude Bitumen,10103,2018,336009.0,643072,0.523
+G10723,Greenfire Resources Operating Corporation,STP McKay Thermal Project,In Situ,SAGD,Crude Bitumen,11461,2018,0.0,0,0.0
+G10815,Cenovus Energy Inc,Sunrise Thermal,In Situ,SAGD,Crude Bitumen,10419,2018,1696283.0,2898655,0.585
+G10414,ConocoPhillips Surmont Partnership,Surmont SAGD Commercial Battery,In Situ,SAGD,Crude Bitumen,9426,2018,3274901.0,7989074,0.41
+G10394,Strathcona Resources Ltd,Tucker Thermal,In Situ,SAGD,Crude Bitumen,9835,2018,794642.0,1300271,0.611
+G10324,Canadian Natural Resources Limited,Wolf Lake and Primrose Plant,In Situ,CSS,Crude Bitumen,9140,2018,3409741.0,3906177,0.873
+G10262,Canadian Natural Upgrading Ltd,Canadian Natural Upgrading Limited Muskeg River Mine and Jackpine Mine and Scotford Upgrader,Mining & Upgrading,PFT,Synthetic Crude Oil,ABOS0077192 ,2018,5085674.0,16576410,0.307
+G11397,Fort Hills Energy L.P.,Fort Hills Oil Sands,Mining Stand-Alone,PFT,Crude Bitumen,ABOS0104948 ,2018,1758072.0,7534498,0.233
+G10408,Canadian Natural Resources Limited,Horizon Oil Sands Processing Plant and Mine,Mining & Upgrading,NFT,Synthetic Crude Oil,ABOS0093231 ,2018,4894848.0,13402497,0.365
+G10750,Imperial Oil Resources Limited,Kearl Oil Sands Processing Plant and Mine,Mining Stand-Alone,PFT,Crude Bitumen,ABOS0101871 ,2018,2700855.0,12920362,0.209
+G10187,Syncrude Canada Ltd.,Mildred Lake and Aurora Plant Sites,Mining & Upgrading,NFT,Synthetic Crude Oil,ABOS0077533 ,2018,11224853.0,14630526,0.767
+G10558,Suncor Energy Oil Sands Limited Partnership ,Suncor Energy Inc. Oil Sands,Mining & Upgrading,NFT,Synthetic Crude Oil,ABOS0077189 ,2018,7316179.0,16840148,0.434
+G10604,Connacher Oil and Gas Limited,Great Divide,In Situ,SAGD,Crude Bitumen,10587,2019,449556.0,634257,0.709
+G12193,IPC Canada. Ltd,Blackrod SAGD Pilot 02-36-076-18W4,In Situ,SAGD,Crude Bitumen,11522,2019,19918.0,20339,0.979
+G10804,Athabasca Oil Corporation,AOC Hangingstone SAGD,In Situ,SAGD,Crude Bitumen,11888,2019,314608.0,492863,0.638
+G11982,Harvest Operations Corp.,BlackGold SAGD,In Situ,SAGD,Crude Bitumen,11387,2019,208922.0,441124,0.474
+G10065,Cenovus Energy Inc,Christina Lake SAGD Bitumen Battery,In Situ,SAGD,Crude Bitumen,8591,2019,3177619.0,11301735,0.281
+G10219,Canadian Natural Upgrading Ltd,CNUL Peace River Complex,In Situ,CSS,Crude Bitumen,8143,2019,292596.0,236341,1.238
+G10073,Imperial Oil Resources Limited,Cold Lake,In Situ,CSS,Crude Bitumen,8558,2019,4789459.0,8197720,0.584
+G10557,Suncor Energy Oil Sands Limited Partnership ,Firebag,In Situ,SAGD,Crude Bitumen,8870,2019,4572504.0,10851592,0.421
+G10465,Cenovus Energy Inc,Foster Creek SAGD Bitumen Battery (with Cogen),In Situ,SAGD,Crude Bitumen,8623,2019,3364615.0,9273528,0.363
+G10781,Canadian Natural Resources Limited,Germain SAGD Plant,In Situ,SAGD,Crude Bitumen,11509,2019,0.0,0,0.0
+G11409,Greenfire Resources Operating Corporation,Hangingstone Expansion Project,In Situ,SAGD,Crude Bitumen,11910,2019,539487.0,1506893,0.358
+G10134,Greenfire Resources Operating Corporation,Hangingstone SAGD Demonstration Facility,In Situ,SAGD,Crude Bitumen,8788,2019,174454.0,159240,1.096
+G10409,Canadian Natural Resources Limited,"Jackfish 1, 2, & 3",In Situ,SAGD,Crude Bitumen,10097,2019,2399866.0,5672723,0.423
+G10744,Canadian Natural Resources Limited,Kirby,In Situ,SAGD,Crude Bitumen,11475,2019,642627.0,1907689,0.337
+G10639,Athabasca Oil Corporation,Leismer SAGD Bitumen Battery,In Situ,SAGD,Crude Bitumen,10935,2019,526762.0,1019282,0.517
+G10817,Pengrowth Energy Corporation,LINDBERGH SAGD 04-25,In Situ,SAGD,Crude Bitumen,6410,2019,404953.0,1033550,0.392
+G10390,CNOOC Petroleum North America ULC,Long Lake Project,In Situ,SAGD,Synthetic Crude Oil,ABOS0098317 ,2019,1229340.0,2686944,0.458
+G10735,PetroChina Canada Ltd.,MacKay River Commercial Project,In Situ,SAGD,Crude Bitumen,11715,2019,519961.0,485448,1.071
+G10180,Suncor Energy Oil Sands Limited Partnership,"MacKay River, In-Situ Oil Sands Plant",In Situ,SAGD,Crude Bitumen,8668,2019,825208.0,1693257,0.487
+G10619,MEG Energy Corp.,MEG Christina Lake Regional Project,In Situ,SAGD,Crude Bitumen,10773,2019,1887511.0,4955275,0.381
+G10412,Strathcona Resources Ltd,Orion Facilities,In Situ,SAGD,Crude Bitumen,10103,2019,464536.0,1088056,0.427
+G10723,Greenfire Resources Operating Corporation,STP McKay Thermal Project,In Situ,SAGD,Crude Bitumen,11461,2019,0.0,0,0.0
+G10815,Cenovus Energy Inc,Sunrise Thermal,In Situ,SAGD,Crude Bitumen,10419,2019,1415895.0,2865301,0.494
+G10414,ConocoPhillips Surmont Partnership,Surmont SAGD Commercial Battery,In Situ,SAGD,Crude Bitumen,9426,2019,2938069.0,7264704,0.404
+G10394,Strathcona Resources Ltd,Tucker Thermal,In Situ,SAGD,Crude Bitumen,9835,2019,912682.0,1374473,0.664
+G10324,Canadian Natural Resources Limited,Wolf Lake and Primrose Plant,In Situ,CSS,Crude Bitumen,9140,2019,3384500.0,4410016,0.767
+G10262,Canadian Natural Upgrading Ltd,Canadian Natural Upgrading Limited Muskeg River Mine and Jackpine Mine and Scotford Upgrader,Mining & Upgrading,PFT,Synthetic Crude Oil,ABOS0077192 ,2019,5176461.0,16618915,0.311
+G11397,Fort Hills Energy L.P.,Fort Hills Oil Sands,Mining Stand-Alone,PFT,Crude Bitumen,ABOS0104948 ,2019,1979053.0,9506450,0.208
+G10408,Canadian Natural Resources Limited,Horizon Oil Sands Processing Plant and Mine,Mining & Upgrading,NFT,Synthetic Crude Oil,ABOS0093231 ,2019,4356066.0,11756763,0.371
+G10750,Imperial Oil Resources Limited,Kearl Oil Sands Processing Plant and Mine,Mining Stand-Alone,PFT,Crude Bitumen,ABOS0101871 ,2019,2815527.0,12803776,0.22
+G10187,Syncrude Canada Ltd.,Mildred Lake and Aurora Plant Sites,Mining & Upgrading,NFT,Synthetic Crude Oil,ABOS0077533 ,2019,11671172.0,17407321,0.67
+G10558,Suncor Energy Oil Sands Limited Partnership ,Suncor Energy Inc. Oil Sands,Mining & Upgrading,NFT,Synthetic Crude Oil,ABOS0077189 ,2019,8117839.0,18875866,0.43
+G10604,Connacher Oil and Gas Limited,Great Divide,In Situ,SAGD,Crude Bitumen,10587,2020,383464.0,585133,0.655
+G12193,IPC Canada. Ltd,Blackrod SAGD Pilot 02-36-076-18W4,In Situ,SAGD,Crude Bitumen,11522,2020,24118.0,9842,2.451
+G10804,Athabasca Oil Corporation,AOC Hangingstone SAGD,In Situ,SAGD,Crude Bitumen,11888,2020,187755.0,260756,0.72
+G11982,Harvest Operations Corp.,BlackGold SAGD,In Situ,SAGD,Crude Bitumen,11387,2020,197825.0,415961,0.476
+G10065,Cenovus Energy Inc,Christina Lake SAGD Bitumen Battery,In Situ,SAGD,Crude Bitumen,8591,2020,3445096.0,12718177,0.271
+G10219,Canadian Natural Upgrading Ltd,CNUL Peace River Complex,In Situ,CSS,Crude Bitumen,8143,2020,222734.0,133711,1.666
+G10073,Imperial Oil Resources Limited,Cold Lake,In Situ,CSS,Crude Bitumen,8558,2020,4558553.0,7757061,0.588
+G10557,Suncor Energy Oil Sands Limited Partnership ,Firebag,In Situ,SAGD,Crude Bitumen,8870,2020,4343618.0,10609132,0.409
+G10465,Cenovus Energy Inc,Foster Creek SAGD Bitumen Battery (with Cogen),In Situ,SAGD,Crude Bitumen,8623,2020,3366480.0,9229300,0.365
+G10781,Canadian Natural Resources Limited,Germain SAGD Plant,In Situ,SAGD,Crude Bitumen,11509,2020,0.0,0,0.0
+G11409,Greenfire Resources Operating Corporation,Hangingstone Expansion Project,In Situ,SAGD,Crude Bitumen,11910,2020,534319.0,1185736,0.451
+G10134,Greenfire Resources Operating Corporation,Hangingstone SAGD Demonstration Facility,In Situ,SAGD,Crude Bitumen,8788,2020,0.0,61755,0.0
+G10409,Canadian Natural Resources Limited,"Jackfish 1, 2, & 3",In Situ,SAGD,Crude Bitumen,10097,2020,2456268.0,6032137,0.407
+G10744,Canadian Natural Resources Limited,Kirby,In Situ,SAGD,Crude Bitumen,11475,2020,1250046.0,3500807,0.357
+G10639,Athabasca Oil Corporation,Leismer SAGD Bitumen Battery,In Situ,SAGD,Crude Bitumen,10935,2020,483374.0,1062779,0.455
+G10817,Pengrowth Energy Corporation,LINDBERGH SAGD 04-25,In Situ,SAGD,Crude Bitumen,6410,2020,344768.0,885162,0.389
+G10390,CNOOC Petroleum North America ULC,Long Lake Project,In Situ,SAGD,Synthetic Crude Oil,ABOS0098317 ,2020,924888.0,1838551,0.503
+G10735,PetroChina Canada Ltd.,MacKay River Commercial Project,In Situ,SAGD,Crude Bitumen,11715,2020,528285.0,626776,0.843
+G10180,Suncor Energy Oil Sands Limited Partnership,"MacKay River, In-Situ Oil Sands Plant",In Situ,SAGD,Crude Bitumen,8668,2020,613422.0,974547,0.629
+G10619,MEG Energy Corp.,MEG Christina Lake Regional Project,In Situ,SAGD,Crude Bitumen,10773,2020,1730062.0,4512305,0.383
+G10412,Strathcona Resources Ltd,Orion Facilities,In Situ,SAGD,Crude Bitumen,10103,2020,454324.0,1117546,0.407
+G10723,Greenfire Resources Operating Corporation,STP McKay Thermal Project,In Situ,SAGD,Crude Bitumen,11461,2020,0.0,2704,0.0
+G10815,Cenovus Energy Inc,Sunrise Thermal,In Situ,SAGD,Crude Bitumen,10419,2020,1323668.0,2593463,0.51
+G10414,ConocoPhillips Surmont Partnership,Surmont SAGD Commercial Battery,In Situ,SAGD,Crude Bitumen,9426,2020,2647377.0,6423748,0.412
+G10394,Strathcona Resources Ltd,Tucker Thermal,In Situ,SAGD,Crude Bitumen,9835,2020,729835.0,1069646,0.682
+G10324,Canadian Natural Resources Limited,Wolf Lake and Primrose Plant,In Situ,CSS,Crude Bitumen,9140,2020,3273127.0,4554734,0.719
+G10262,Canadian Natural Upgrading Ltd,Canadian Natural Upgrading Limited Muskeg River Mine and Jackpine Mine and Scotford Upgrader,Mining & Upgrading,PFT,Synthetic Crude Oil,ABOS0077192 ,2020,5081257.0,15360424,0.331
+G11397,Fort Hills Energy L.P.,Fort Hills Oil Sands,Mining Stand-Alone,PFT,Crude Bitumen,ABOS0104948 ,2020,1543483.0,6518746,0.237
+G10408,Canadian Natural Resources Limited,Horizon Oil Sands Processing Plant and Mine,Mining & Upgrading,NFT,Synthetic Crude Oil,ABOS0093231 ,2020,5071086.0,13833182,0.367
+G10750,Imperial Oil Resources Limited,Kearl Oil Sands Processing Plant and Mine,Mining Stand-Alone,PFT,Crude Bitumen,ABOS0101871 ,2020,2770122.0,13935222,0.199
+G10187,Syncrude Canada Ltd.,Mildred Lake and Aurora Plant Sites,Mining & Upgrading,NFT,Synthetic Crude Oil,ABOS0077533 ,2020,11654948.0,16375795,0.712
+G10558,Suncor Energy Oil Sands Limited Partnership ,Suncor Energy Inc. Oil Sands,Mining & Upgrading,NFT,Synthetic Crude Oil,ABOS0077189 ,2020,7577840.0,18220003,0.416
+G10604,Connacher Oil and Gas Limited,Great Divide,In Situ,SAGD,Crude Bitumen,10587,2021,441750.0,701505,0.63
+G12193,IPC Canada. Ltd,Blackrod SAGD Pilot 02-36-076-18W4,In Situ,SAGD,Crude Bitumen,11522,2021,26219.0,41628,0.63
+G10804,Athabasca Oil Corporation,AOC Hangingstone SAGD,In Situ,SAGD,Crude Bitumen,11888,2021,308524.0,527943,0.584
+G11982,Harvest Operations Corp.,BlackGold SAGD,In Situ,SAGD,Crude Bitumen,11387,2021,224806.0,497812,0.452
+G10065,Cenovus Energy Inc,Christina Lake SAGD Bitumen Battery,In Situ,SAGD,Crude Bitumen,8591,2021,3605388.0,13728466,0.263
+G10219,Canadian Natural Upgrading Ltd,CNUL Peace River Complex,In Situ,CSS,Crude Bitumen,8143,2021,329628.0,155991,2.113
+G10073,Imperial Oil Resources Limited,Cold Lake,In Situ,CSS,Crude Bitumen,8558,2021,4745217.0,8158922,0.582
+G10557,Suncor Energy Oil Sands Limited Partnership ,Firebag,In Situ,SAGD,Crude Bitumen,8870,2021,5097555.0,11979903,0.426
+G10465,Cenovus Energy Inc,Foster Creek SAGD Bitumen Battery (with Cogen),In Situ,SAGD,Crude Bitumen,8623,2021,3251286.0,10151258,0.32
+G10781,Canadian Natural Resources Limited,Germain SAGD Plant,In Situ,SAGD,Crude Bitumen,11509,2021,0.0,0,0.0
+G11409,Greenfire Resources Operating Corporation,Hangingstone Expansion Project,In Situ,SAGD,Crude Bitumen,11910,2021,543347.0,1344981,0.404
+G10134,Greenfire Resources Operating Corporation,Hangingstone SAGD Demonstration Facility,In Situ,SAGD,Crude Bitumen,8788,2021,145846.0,154181,0.946
+G10409,Canadian Natural Resources Limited,"Jackfish 1, 2, & 3",In Situ,SAGD,Crude Bitumen,10097,2021,2605450.0,6774032,0.385
+G10744,Canadian Natural Resources Limited,Kirby,In Situ,SAGD,Crude Bitumen,11475,2021,1350949.0,3606264,0.375
+G10639,Athabasca Oil Corporation,Leismer SAGD Bitumen Battery,In Situ,SAGD,Crude Bitumen,10935,2021,449428.0,1027539,0.437
+G10817,Pengrowth Energy Corporation,LINDBERGH SAGD 04-25,In Situ,SAGD,Crude Bitumen,6410,2021,405734.0,907945,0.447
+G10390,CNOOC Petroleum North America ULC,Long Lake Project,In Situ,SAGD,Synthetic Crude Oil,ABOS0098317 ,2021,1434560.0,2376269,0.604
+G10735,PetroChina Canada Ltd.,MacKay River Commercial Project,In Situ,SAGD,Crude Bitumen,11715,2021,552067.0,706868,0.781
+G10180,Suncor Energy Oil Sands Limited Partnership,"MacKay River, In-Situ Oil Sands Plant",In Situ,SAGD,Crude Bitumen,8668,2021,986556.0,2082540,0.474
+G10619,MEG Energy Corp.,MEG Christina Lake Regional Project,In Situ,SAGD,Crude Bitumen,10773,2021,2001118.0,5229954,0.383
+G10412,Strathcona Resources Ltd,Orion Facilities,In Situ,SAGD,Crude Bitumen,10103,2021,503941.0,940870,0.536
+G10723,Greenfire Resources Operating Corporation,STP McKay Thermal Project,In Situ,SAGD,Crude Bitumen,11461,2021,0.0,73092,0.0
+G10815,Cenovus Energy Inc,Sunrise Thermal,In Situ,SAGD,Crude Bitumen,10419,2021,1394532.0,3002892,0.464
+G10414,ConocoPhillips Surmont Partnership,Surmont SAGD Commercial Battery,In Situ,SAGD,Crude Bitumen,9426,2021,3196762.0,8032589,0.398
+G10394,Strathcona Resources Ltd,Tucker Thermal,In Situ,SAGD,Crude Bitumen,9835,2021,835864.0,1216838,0.687
+G10324,Canadian Natural Resources Limited,Wolf Lake and Primrose Plant,In Situ,CSS,Crude Bitumen,9140,2021,3272794.0,4137650,0.791
+G10262,Canadian Natural Upgrading Ltd,Canadian Natural Upgrading Limited Muskeg River Mine and Jackpine Mine and Scotford Upgrader,Mining & Upgrading,PFT,Synthetic Crude Oil,ABOS0077192 ,2021,5389168.0,18317950,0.294
+G11397,Fort Hills Energy L.P.,Fort Hills Oil Sands,Mining Stand-Alone,PFT,Crude Bitumen,ABOS0104948 ,2021,1474395.0,5643377,0.261
+G10408,Canadian Natural Resources Limited,Horizon Oil Sands Processing Plant and Mine,Mining & Upgrading,NFT,Synthetic Crude Oil,ABOS0093231 ,2021,5034064.0,13328403,0.378
+G10750,Imperial Oil Resources Limited,Kearl Oil Sands Processing Plant and Mine,Mining Stand-Alone,PFT,Crude Bitumen,ABOS0101871 ,2021,2997503.0,16323824,0.184
+G10187,Syncrude Canada Ltd.,Mildred Lake and Aurora Plant Sites,Mining & Upgrading,NFT,Synthetic Crude Oil,ABOS0077533 ,2021,11751452.0,16551058,0.71
+G10558,Suncor Energy Oil Sands Limited Partnership ,Suncor Energy Inc. Oil Sands,Mining & Upgrading,NFT,Synthetic Crude Oil,ABOS0077189 ,2021,7650641.0,18250386,0.419
+G10604,Connacher Oil and Gas Limited,Great Divide,In Situ,SAGD,Crude Bitumen,10587,2022,469492.0,807946,0.581
+G12193,IPC Canada. Ltd,Blackrod SAGD Pilot 02-36-076-18W4,In Situ,SAGD,Crude Bitumen,11522,2022,23577.0,46513,0.507
+G10804,Athabasca Oil Corporation,AOC Hangingstone SAGD,In Situ,SAGD,Crude Bitumen,11888,2022,274746.0,513813,0.535
+G11982,Harvest Operations Corp.,BlackGold SAGD,In Situ,SAGD,Crude Bitumen,11387,2022,207241.0,463023,0.448
+G10065,Cenovus Energy Inc,Christina Lake SAGD Bitumen Battery,In Situ,SAGD,Crude Bitumen,8591,2022,3656799.0,14307044,0.256
+G10219,Canadian Natural Upgrading Ltd,CNUL Peace River Complex,In Situ,CSS,Crude Bitumen,8143,2022,183195.0,308220,0.594
+G10073,Imperial Oil Resources Limited,Cold Lake,In Situ,CSS,Crude Bitumen,8558,2022,4459821.0,8442395,0.528
+G10557,Suncor Energy Oil Sands Limited Partnership ,Firebag,In Situ,SAGD,Crude Bitumen,8870,2022,4692462.0,11533052,0.407
+G10465,Cenovus Energy Inc,Foster Creek SAGD Bitumen Battery (with Cogen),In Situ,SAGD,Crude Bitumen,8623,2022,3438556.0,10832021,0.317
+G10781,Canadian Natural Resources Limited,Germain SAGD Plant,In Situ,SAGD,Crude Bitumen,11509,2022,0.0,0,0.0
+G11409,Greenfire Resources Operating Corporation,Hangingstone Expansion Project,In Situ,SAGD,Crude Bitumen,11910,2022,522256.0,1300001,0.402
+G10134,Greenfire Resources Operating Corporation,Hangingstone SAGD Demonstration Facility,In Situ,SAGD,Crude Bitumen,8788,2022,206985.0,214781,0.964
+G10409,Canadian Natural Resources Limited,"Jackfish 1, 2, & 3",In Situ,SAGD,Crude Bitumen,10097,2022,2643710.0,6799439,0.389
+G10744,Canadian Natural Resources Limited,Kirby,In Situ,SAGD,Crude Bitumen,11475,2022,1355310.0,3131742,0.433
+G10639,Athabasca Oil Corporation,Leismer SAGD Bitumen Battery,In Situ,SAGD,Crude Bitumen,10935,2022,469826.0,1168557,0.402
+G10817,Pengrowth Energy Corporation,LINDBERGH SAGD 04-25,In Situ,SAGD,Crude Bitumen,6410,2022,428484.0,862768,0.497
+G10390,CNOOC Petroleum North America ULC,Long Lake Project,In Situ,SAGD,Synthetic Crude Oil,ABOS0098317 ,2022,1361814.0,2762160,0.493
+G10735,PetroChina Canada Ltd.,MacKay River Commercial Project,In Situ,SAGD,Crude Bitumen,11715,2022,558408.0,639717,0.873
+G10180,Suncor Energy Oil Sands Limited Partnership,"MacKay River, In-Situ Oil Sands Plant",In Situ,SAGD,Crude Bitumen,8668,2022,892454.0,1875120,0.476
+G10619,MEG Energy Corp.,MEG Christina Lake Regional Project,In Situ,SAGD,Crude Bitumen,10773,2022,1952050.0,5384079,0.363
+G10412,Strathcona Resources Ltd,Orion Facilities,In Situ,SAGD,Crude Bitumen,10103,2022,565204.0,914856,0.618
+G10723,Greenfire Resources Operating Corporation,STP McKay Thermal Project,In Situ,SAGD,Crude Bitumen,11461,2022,0.0,98544,0.0
+G10815,Cenovus Energy Inc,Sunrise Thermal,In Situ,SAGD,Crude Bitumen,10419,2022,1194752.0,2764228,0.432
+G10414,ConocoPhillips Surmont Partnership,Surmont SAGD Commercial Battery,In Situ,SAGD,Crude Bitumen,9426,2022,3053642.0,8084468,0.378
+G10394,Strathcona Resources Ltd,Tucker Thermal,In Situ,SAGD,Crude Bitumen,9835,2022,865517.0,1139946,0.759
+G10324,Canadian Natural Resources Limited,Wolf Lake and Primrose Plant,In Situ,CSS,Crude Bitumen,9140,2022,3420470.0,4018739,0.851
+G10262,Canadian Natural Upgrading Ltd,Canadian Natural Upgrading Limited Muskeg River Mine and Jackpine Mine and Scotford Upgrader,Mining & Upgrading,PFT,Synthetic Crude Oil,ABOS0077192 ,2022,5349734.0,16921277,0.316
+G11397,Fort Hills Energy L.P.,Fort Hills Oil Sands,Mining Stand-Alone,PFT,Crude Bitumen,ABOS0104948 ,2022,2139691.0,9495449,0.225
+G10408,Canadian Natural Resources Limited,Horizon Oil Sands Processing Plant and Mine,Mining & Upgrading,NFT,Synthetic Crude Oil,ABOS0093231 ,2022,5111236.0,13074996,0.391
+G10750,Imperial Oil Resources Limited,Kearl Oil Sands Processing Plant and Mine,Mining Stand-Alone,PFT,Crude Bitumen,ABOS0101871 ,2022,3270001.0,15090210,0.217
+G10187,Syncrude Canada Ltd.,Mildred Lake and Aurora Plant Sites,Mining & Upgrading,NFT,Synthetic Crude Oil,ABOS0077533 ,2022,12403247.0,17678335,0.702
+G10558,Suncor Energy Oil Sands Limited Partnership ,Suncor Energy Inc. Oil Sands,Mining & Upgrading,NFT,Synthetic Crude Oil,ABOS0077189 ,2022,7242340.0,18382015,0.394
+G10604,Connacher Oil and Gas Limited,Great Divide,In Situ,SAGD,Crude Bitumen,10587,2023,468216.0,888953,0.527
+G12193,IPC Canada. Ltd,Blackrod SAGD Pilot 02-36-076-18W4,In Situ,SAGD,Crude Bitumen,11522,2023,27338.0,35076,0.779
+G10804,Athabasca Oil Corporation,AOC Hangingstone SAGD,In Situ,SAGD,Crude Bitumen,11888,2023,230062.0,449675,0.512
+G11982,Harvest Operations Corp.,BlackGold SAGD,In Situ,SAGD,Crude Bitumen,11387,2023,213221.0,444895,0.479
+G10065,Cenovus Energy Inc,Christina Lake SAGD Bitumen Battery,In Situ,SAGD,Crude Bitumen,8591,2023,3652597.0,13769028,0.265
+G10219,Canadian Natural Upgrading Ltd,CNUL Peace River Complex,In Situ,CSS,Crude Bitumen,8143,2023,183389.0,219034,0.837
+G10073,Imperial Oil Resources Limited,Cold Lake,In Situ,CSS,Crude Bitumen,8558,2023,4895564.0,7946147,0.616
+G10557,Suncor Energy Oil Sands Limited Partnership ,Firebag,In Situ,SAGD,Crude Bitumen,8870,2023,5021276.0,12641292,0.397
+G10465,Cenovus Energy Inc,Foster Creek SAGD Bitumen Battery (with Cogen),In Situ,SAGD,Crude Bitumen,8623,2023,3329250.0,10628775,0.313
+G10781,Canadian Natural Resources Limited,Germain SAGD Plant,In Situ,SAGD,Crude Bitumen,11509,2023,0.0,0,0.0
+G11409,Greenfire Resources Operating Corporation,Hangingstone Expansion Project,In Situ,SAGD,Crude Bitumen,11910,2023,534559.0,1070011,0.5
+G10134,Greenfire Resources Operating Corporation,Hangingstone SAGD Demonstration Facility,In Situ,SAGD,Crude Bitumen,8788,2023,212168.0,221116,0.96
+G10409,Canadian Natural Resources Limited,"Jackfish 1, 2, & 3",In Situ,SAGD,Crude Bitumen,10097,2023,2668476.0,6580527,0.406
+G10744,Canadian Natural Resources Limited,Kirby,In Situ,SAGD,Crude Bitumen,11475,2023,1589613.0,3410118,0.466
+G10639,Athabasca Oil Corporation,Leismer SAGD Bitumen Battery,In Situ,SAGD,Crude Bitumen,10935,2023,548023.0,1305379,0.42
+G10817,Pengrowth Energy Corporation,LINDBERGH SAGD 04-25,In Situ,SAGD,Crude Bitumen,6410,2023,509448.0,969010,0.526
+G10390,CNOOC Petroleum North America ULC,Long Lake Project,In Situ,SAGD,Synthetic Crude Oil,ABOS0098317 ,2023,1810797.0,3845624,0.471
+G10735,PetroChina Canada Ltd.,MacKay River Commercial Project,In Situ,SAGD,Crude Bitumen,11715,2023,514322.0,568376,0.905
+G10180,Suncor Energy Oil Sands Limited Partnership,"MacKay River, In-Situ Oil Sands Plant",In Situ,SAGD,Crude Bitumen,8668,2023,953004.0,1947377,0.489
+G10619,MEG Energy Corp.,MEG Christina Lake Regional Project,In Situ,SAGD,Crude Bitumen,10773,2023,1974929.0,5725560,0.345
+G10412,Strathcona Resources Ltd,Orion Facilities,In Situ,SAGD,Crude Bitumen,10103,2023,601727.0,1202241,0.501
+G10723,Greenfire Resources Operating Corporation,STP McKay Thermal Project,In Situ,SAGD,Crude Bitumen,11461,2023,0.0,12479,0.0
+G10815,Cenovus Energy Inc,Sunrise Thermal,In Situ,SAGD,Crude Bitumen,10419,2023,1335476.0,2839289,0.47
+G10414,ConocoPhillips Surmont Partnership,Surmont SAGD Commercial Battery,In Situ,SAGD,Crude Bitumen,9426,2023,3075078.0,7402729,0.415
+G10394,Strathcona Resources Ltd,Tucker Thermal,In Situ,SAGD,Crude Bitumen,9835,2023,919658.0,1065634,0.863
+G10324,Canadian Natural Resources Limited,Wolf Lake and Primrose Plant,In Situ,CSS,Crude Bitumen,9140,2023,3023309.0,4786594,0.632
+G10262,Canadian Natural Upgrading Ltd,Canadian Natural Upgrading Limited Muskeg River Mine and Jackpine Mine and Scotford Upgrader,Mining & Upgrading,PFT,Synthetic Crude Oil,ABOS0077192 ,2023,5329448.0,18125820,0.294
+G11397,Fort Hills Energy L.P.,Fort Hills Oil Sands,Mining Stand-Alone,PFT,Crude Bitumen,ABOS0104948 ,2023,1990074.0,8911935,0.223
+G10408,Canadian Natural Resources Limited,Horizon Oil Sands Processing Plant and Mine,Mining & Upgrading,NFT,Synthetic Crude Oil,ABOS0093231 ,2023,4819309.0,13724261,0.351
+G10750,Imperial Oil Resources Limited,Kearl Oil Sands Processing Plant and Mine,Mining Stand-Alone,PFT,Crude Bitumen,ABOS0101871 ,2023,3299949.0,16728696,0.197
+G10187,Syncrude Canada Ltd.,Mildred Lake and Aurora Plant Sites,Mining & Upgrading,NFT,Synthetic Crude Oil,ABOS0077533 ,2023,12626079.0,18382531,0.687
+G10558,Suncor Energy Oil Sands Limited Partnership ,Suncor Energy Inc. Oil Sands,Mining & Upgrading,NFT,Synthetic Crude Oil,ABOS0077189 ,2023,7234601.0,18432794,0.392
