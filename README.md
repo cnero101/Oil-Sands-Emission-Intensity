@@ -75,8 +75,8 @@ scale is likely to have more leverage than technology-specific mandates.
 │   ├── figures/                         # generated plots (png)
 │   └── tables/                          # generated results (csv)
 ├── reports/
-│   ├── DATA_606_Project_Report.docx     # full written report
-│   └── Project_Presentation.pptx        # slide deck
+│   ├── Project_Report.docx     # full written report
+│   └── Project_Presentation.pdf        # slide deck
 ├── docs/
 │   ├── METHODOLOGY.md                   # data leakage note & feature rationale
 │   └── pipeline_architecture.png        # end-to-end architecture diagram
